@@ -2,6 +2,10 @@
 
 This is a simple web-based implementation of the classic Rock Paper Scissors game using HTML, CSS, and JavaScript.
 
+## Live Preview
+
+Check out the live preview of the website here. https://brianbobby.github.io/RockPaperScissors/
+
 ## Description
 
 Rock Paper Scissors is a two-player game where each player chooses one of three possible moves: rock, paper, or scissors. The outcome of the game is determined by the choices made by the players:
